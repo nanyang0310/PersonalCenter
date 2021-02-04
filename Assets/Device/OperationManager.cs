@@ -379,7 +379,7 @@ namespace NY
                 if (hotspot)
                 {
                     //不参与流程的热点
-                    if (hotspot.m_type == Hotspot.DeviceType.Hotspot)
+                    if (hotspot.m_type == Hotspot.DeviceType.Device)
                     {
                         hotspot.Operate();
                     }
