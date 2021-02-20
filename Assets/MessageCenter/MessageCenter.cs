@@ -11,26 +11,34 @@ using System;
 
 public class MessageCenter
 {
-    private static Dictionary<string, Action<object,object>> m_messageCenterDic = new Dictionary<string, Action<object, object>>();
+    private static Dictionary<string, Action<object>> m_messageCenterDic = new Dictionary<string, Action<object>>();
 
-    public static void Register(string name, Action<object, object> action)
+    public static void Register(string name, Action<object> action)
     {
         if (!m_messageCenterDic.ContainsKey(name))
         {
             //m_messageCenterDic.Add(name, default);
             //m_messageCenterDic.Add(name, action);
-            m_messageCenterDic.Add(name, (x, y) => { });
+            m_messageCenterDic.Add(name, (x) => { });
         }
         m_messageCenterDic[name] += action;
     }
 
-    public static void UnRegister(string name)
+    public static void UnRegister(string name, Action<object> action)
+    {
+        if (m_messageCenterDic.ContainsKey(name))
+        {
+            m_messageCenterDic[name] -= action;
+        }
+    }
+
+    public static void UnRegisterAll(string name)
     {
         m_messageCenterDic.Remove(name);
     }
 
-    public static void Send(string name, object obj1, object obj2)
+    public static void Send(string name, object obj1)
     {
-        m_messageCenterDic[name](obj1, obj2);
+        m_messageCenterDic[name](obj1);
     }
 }
