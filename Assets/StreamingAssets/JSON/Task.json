@@ -1,0 +1,70 @@
+{
+  "tasks": [
+    {
+      "m_id": 0,
+      "m_taskName": "前置任务",
+      "m_taskCode": 0,
+      "m_similarWith": 0,
+      "m_description": "",
+      "m_other": "",
+      "m_isShow": false,
+      "m_spritePath": "",
+      "m_taskStepList": []
+    },
+    {
+      "m_id": 1,
+      "m_taskName": "球阀操作（开）",
+      "m_taskCode": 101,
+      "m_similarWith": 0,
+      "m_description": "",
+      "m_other": "",
+      "m_isShow": true,
+      "m_spritePath": "Task/球阀",
+      "m_taskStepList": []
+    },
+    {
+      "m_id": 2,
+      "m_taskName": "剧情-开启球阀",
+      "m_taskCode": 901,
+      "m_similarWith": 0,
+      "m_description": "",
+      "m_other": "",
+      "m_isShow": false,
+      "m_spritePath": "Task/球阀",
+      "m_taskStepList": []
+    },
+    {
+      "m_id": 3,
+      "m_taskName": "剧情-开启球阀2",
+      "m_taskCode": 902,
+      "m_similarWith": 0,
+      "m_description": "",
+      "m_other": "",
+      "m_isShow": false,
+      "m_spritePath": "Task/球阀",
+      "m_taskStepList": []
+    },
+    {
+      "m_id": 4,
+      "m_taskName": "剧情-成绩不合格",
+      "m_taskCode": 1001,
+      "m_similarWith": 0,
+      "m_description": "",
+      "m_other": "",
+      "m_isShow": false,
+      "m_spritePath": "Task/球阀",
+      "m_taskStepList": []
+    },
+    {
+      "m_id": 5,
+      "m_taskName": "剧情-成绩合格",
+      "m_taskCode": 1002,
+      "m_similarWith": 0,
+      "m_description": "",
+      "m_other": "",
+      "m_isShow": false,
+      "m_spritePath": "Task/球阀",
+      "m_taskStepList": []
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "taskSteps": [
+    {
+      "m_ID": 1,
+      "m_taskID": 0,
+      "m_stepIndex": 1,
+      "m_role": 0,
+      "m_stepType": 2,
+      "m_preconditionStepIndexList": [ 0 ],
+      "m_stepContent": "点击<color=#00ff6b>劳保柜</color>穿戴劳保服",
+      "m_speechContent": "穿戴劳保服",
+      "m_partName": "衣柜门",
+      "m_hotspotName": "ChangShu_YGM",
+      "m_toolIDList": [ 1 ],
+      "m_materialID": [ 0 ],
+      "m_taskStepOption": {
+        "m_optionNum": 0,
+        "m_taskStepOptionTypeList": [],
+        "m_optionDatas": "",
+        "m_optionRes": ""
+      },
+      "m_jumpStepType": 0,
+      "m_jumpStepNum": "1",
+      "m_finalState": "",
+      "m_partAniName": "",
+      "m_toolAniName": "",
+      "m_needInitCamera": false,
+      "m_operationScore": 2.0,
+      "m_stepLevel": 0,
+      "m_isCompleted": false
+    },
+    {
+      "m_ID": 2,
+      "m_taskID": 0,
+      "m_stepIndex": 2,
+      "m_role": 0,
+      "m_stepType": 1,
+      "m_preconditionStepIndexList": [ 0 ],
+      "m_stepContent": "存放钥匙手机火机",
+      "m_speechContent": "打开【手机火种存放箱】，存放物品",
+      "m_partName": "手机火种存放箱",
+      "m_hotspotName": "ChangShu_SJHZCFX",
+      "m_toolIDList": [ 1 ],
+      "m_materialID": [ 0 ],
+      "m_taskStepOption": {
+        "m_optionNum": 0,
+        "m_taskStepOptionTypeList": [],
+        "m_optionDatas": "",
+        "m_optionRes": ""
+      },
+      "m_jumpStepType": 0,
+      "m_jumpStepNum": "1",
+      "m_finalState": "",
+      "m_partAniName": "yidong",
+      "m_toolAniName": "",
+      "m_needInitCamera": true,
+      "m_operationScore": 2.0,
+      "m_stepLevel": 0,
+      "m_isCompleted": false
+    },
+    {
+      "m_ID": 3,
+      "m_taskID": 0,
+      "m_stepIndex": 3,
+      "m_role": 2,
+      "m_stepType": 4,
+      "m_preconditionStepIndexList": [ 0 ],
+      "m_stepContent": "与站长对话，领取任务",
+      "m_speechContent": "我这有些任务需要处理，你挑个任务吧。",
+      "m_partName": "站长",
+      "m_hotspotName": "ChangShu_ZC",
+      "m_toolIDList": [ 1 ],
+      "m_materialID": [ 0 ],
+      "m_taskStepOption": {
+        "m_optionNum": 0,
+        "m_taskStepOptionTypeList": [],
+        "m_optionDatas": "",
+        "m_optionRes": ""
+      },
+      "m_jumpStepType": 0,
+      "m_jumpStepNum": "1",
+      "m_finalState": "",
+      "m_partAniName": "",
+      "m_toolAniName": "0",
+      "m_needInitCamera": false,
+      "m_operationScore": 2.0,
+      "m_stepLevel": 0,
+      "m_isCompleted": false
+    }
+  ]
+}

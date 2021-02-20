@@ -1,0 +1,36 @@
+{
+  "taskHotspotGroups": [
+    {
+      "m_id": 1,
+      "m_isPlot": true,
+      "m_hotspotName": "ChangShu_1W_1_QFZ",
+      "m_optionDatas": "[设备操作]",
+      "m_groupDatas": "[全部,ChangShu_1W_QFZ,DeviceGroup/球阀组][球阀2301,ChangShu_1W_1_QFZ,DeviceGroup/球阀][球阀2304,ChangShu_1W_2_QFZ,DeviceGroup/球阀]",
+      "m_remark": "球阀组"
+    },
+    {
+      "m_id": 2,
+      "m_isPlot": true,
+      "m_hotspotName": "ChangShu_1W_2_QFZ",
+      "m_optionDatas": "[设备操作]",
+      "m_groupDatas": "[全部,ChangShu_1W_QFZ,DeviceGroup/球阀组][球阀2301,ChangShu_1W_1_QFZ,DeviceGroup/球阀][球阀2304,ChangShu_1W_2_QFZ,DeviceGroup/球阀]",
+      "m_remark": "球阀组"
+    },
+    {
+      "m_id": 3,
+      "m_isPlot": false,
+      "m_hotspotName": "ChangShu_1W_1_QFZ",
+      "m_optionDatas": "[设备操作]",
+      "m_groupDatas": "[全部,ChangShu_1W_QFZ,DeviceGroup/球阀组][球阀2301,ChangShu_1W_1_QFZ,DeviceGroup/球阀]",
+      "m_remark": "球阀组"
+    },
+    {
+      "m_id": 4,
+      "m_isPlot": false,
+      "m_hotspotName": "ChangShu_1W_2_QFZ",
+      "m_optionDatas": "[设备操作]",
+      "m_groupDatas": "[全部,ChangShu_1W_QFZ,DeviceGroup/球阀组][球阀2304,ChangShu_1W_2_QFZ,DeviceGroup/球阀]",
+      "m_remark": "球阀组"
+    }
+  ]
+}

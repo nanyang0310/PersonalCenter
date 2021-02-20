@@ -24,4 +24,18 @@ public class ExportPackage : EditorWindow
         //导出package包
         AssetDatabase.ExportPackage(assetPathNames, path, ExportPackageOptions.Interactive | ExportPackageOptions.Recurse | ExportPackageOptions.IncludeDependencies);
     }
+
+
+    [MenuItem("Assets/Split FBX Animation")]   //路径必须在Assets下
+    private static void SplitFbxAnimation()
+    {
+        Debug.Log("SplitFbxAnimation");
+    }
+
+    [MenuItem("Assets/DebugTest")]
+    private static void DebugTest()
+    {
+        Debug.Log("ssss");
+    }
+
 }

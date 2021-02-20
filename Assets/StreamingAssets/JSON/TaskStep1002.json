@@ -1,0 +1,91 @@
+{
+  "taskSteps": [
+    {
+      "m_ID": 1,
+      "m_taskID": 1002,
+      "m_stepIndex": 1,
+      "m_role": 2,
+      "m_stepType": 7,
+      "m_preconditionStepIndexList": [ 0 ],
+      "m_stepContent": "啊，不错的成绩，以后继续努力",
+      "m_speechContent": "啊，不错的成绩，以后继续努力",
+      "m_partName": "",
+      "m_hotspotName": "",
+      "m_toolIDList": [ 0 ],
+      "m_materialID": [ 0 ],
+      "m_taskStepOption": {
+        "m_optionNum": 0,
+        "m_taskStepOptionTypeList": [],
+        "m_optionDatas": "",
+        "m_optionRes": ""
+      },
+      "m_jumpStepType": 0,
+      "m_jumpStepNum": "1",
+      "m_finalState": "",
+      "m_partAniName": "",
+      "m_toolAniName": "0",
+      "m_needInitCamera": false,
+      "m_operationScore": 2.0,
+      "m_stepLevel": 0,
+      "m_isCompleted": false
+    },
+    {
+      "m_ID": 2,
+      "m_taskID": 1002,
+      "m_stepIndex": 2,
+      "m_role": 0,
+      "m_stepType": 7,
+      "m_preconditionStepIndexList": [ 0 ],
+      "m_stepContent": "老师再见",
+      "m_speechContent": "老师再见",
+      "m_partName": "",
+      "m_hotspotName": "",
+      "m_toolIDList": [ 0 ],
+      "m_materialID": [ 0 ],
+      "m_taskStepOption": {
+        "m_optionNum": 0,
+        "m_taskStepOptionTypeList": [],
+        "m_optionDatas": "",
+        "m_optionRes": ""
+      },
+      "m_jumpStepType": 0,
+      "m_jumpStepNum": "1",
+      "m_finalState": "",
+      "m_partAniName": "",
+      "m_toolAniName": "0",
+      "m_needInitCamera": false,
+      "m_operationScore": 2.0,
+      "m_stepLevel": 0,
+      "m_isCompleted": false
+    },
+    {
+      "m_ID": 3,
+      "m_taskID": 1002,
+      "m_stepIndex": 3,
+      "m_role": 2,
+      "m_stepType": 7,
+      "m_preconditionStepIndexList": [ 0 ],
+      "m_stepContent": "恭喜你完成了本章球阀的操作练习，下次见",
+      "m_speechContent": "恭喜你完成了本章球阀的操作练习，下次见",
+      "m_partName": "",
+      "m_hotspotName": "",
+      "m_toolIDList": [ 0 ],
+      "m_materialID": [ 0 ],
+      "m_taskStepOption": {
+        "m_optionNum": 0,
+        "m_taskStepOptionTypeList": [],
+        "m_optionDatas": "",
+        "m_optionRes": ""
+      },
+      "m_jumpStepType": 0,
+      "m_jumpStepNum": "1",
+      "m_finalState": "",
+      "m_partAniName": "",
+      "m_toolAniName": "0",
+      "m_needInitCamera": false,
+      "m_operationScore": 2.0,
+      "m_stepLevel": 0,
+      "m_isCompleted": false
+    }
+  ]
+}
