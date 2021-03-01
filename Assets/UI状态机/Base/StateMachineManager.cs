@@ -15,8 +15,8 @@ namespace NY
         protected StateMachineManager() { }
 
         private Dictionary<string, UIFiniteStateMachine> m_fsmDic = new Dictionary<string, UIFiniteStateMachine>();
-        public BaseUIMonoBehaviour[] m_states;
         public UIFiniteStateMachine m_uiFSM;
+        private BaseUIMonoBehaviour[] m_states;
         private string m_uiFSMName = "UIFSM";
 
         public override void Awake()
@@ -24,7 +24,7 @@ namespace NY
             base.Awake();
             m_uiFSM = new UIFiniteStateMachine(m_uiFSMName);
             m_fsmDic.Add(m_uiFSMName, m_uiFSM);
-
+            m_states = transform.GetComponentsInChildren<BaseUIMonoBehaviour>(true);
             InitUIPageAsset();
             m_uiFSM.EntryPoint(typeof(PageOne).FullName);
         }
