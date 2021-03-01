@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OptionItemDatas>
+	<OptionItemData>
+		<OptionItemLisList Title="目前室内搬运机器人常用的电池是哪一个？（  ）" Answer="A" OptionDatas="[A.锂电池][B.燃料电池][C.干电池 ][D.太阳能电池]" Type="0"/>
+		<OptionItemLisList Title="目前移动机器人采用的减速器，按照其传动类型来讲，主要是（ ）减速器。" Answer="C" OptionDatas="[A.链条] [B.皮带][C.齿轮][D.蜗轮 ]" Type="0"/>
+		<OptionItemLisList Title="移动机器人常用的检测障碍物的传感器不包括（ ）。" Answer="D" OptionDatas="[A.超声波传感器][B.红外距离传感器 ][C.激光雷达传感器][D.压力传感器]" Type="0"/>
+		<OptionItemLisList Title=" 最常见的触摸屏是（ ）。 " Answer="B" OptionDatas="[A.电阻式触摸屏][B.电容式触摸屏 ][C.表面声波触摸屏][D.紫外式触摸屏]" Type="0"/>
+		<OptionItemLisList Title="触摸屏的常用通信接口是（ ）。 " Answer="B" OptionDatas="[A.电话线][B.RS-422 ][C.红外线][D.蓝牙 ]" Type="0"/>
+		<OptionItemLisList Title="伺服电机与步进电机说法正确的是（ ）。" Answer="D" OptionDatas="[A.步进电机是开环控制 ][B.伺服电机开环控制 ][C.步进电机比伺服电机精度高 ][D.步进电机比伺服电机响应时间长]" Type="0"/>
+		<OptionItemLisList Title="步进电机的转向（）。" Answer="D" OptionDatas="[A.是固定不变的， 原因是其转子上无法通电][B.是可以改变的， 原因是其转子上有不均匀分布的齿][C.是可以改变的，原因是可以改变定子上的通电方向 ][D.是可以改变的，原因是可以改变定子上的通电相]" Type="0"/>
+		<OptionItemLisList Title="直流伺服电机的速度数字控制方法通常是（ ）。" Answer="A" OptionDatas="[A.脉宽调制][B.频率调制][C.幅值调制][D.相位调制]" Type="0"/>
+		<OptionItemLisList Title="常见室内移动机器人的移动机构不包括（）。" Answer="D" OptionDatas="[A.轮][B.履带][C.腿][D.翅膀]" Type="1"/>
+		<OptionItemLisList Title="在SLAM中，哪个不是常用的用于环境测量的传感器。（ ）" Answer="D" OptionDatas="[A.单目视觉][B.双目视觉][C.激光雷达][D.红外传感器]" Type="1"/>
+	</OptionItemData>
+</OptionItemDatas>
