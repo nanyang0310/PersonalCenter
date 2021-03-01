@@ -1,0 +1,907 @@
+﻿MIME-version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0076_01C29953.BE473C30";
+	type="text/html"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: text/html; 
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.TMP.html
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type  content=3D"text/html; charset=3Dutf-8" ><meta name=3DProgId  content=3DWord.Document ><meta name=3DGenerator  content=3D"Microsoft Word 14" ><meta name=3DOriginator  content=3D"Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>ThinkPad</o:Author><o:LastAuthor>83653</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>4</o:Pages><o:Characters>648</o:Characters><o:Lines>5</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:MTWinEqns dt:dt=3D"boolean" >1</o:MTWinEqns><o:KSOProductBuildVer dt:dt=3D"string" >2052-11.1.0.10314</o:KSOProductBuildVer></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:PunctuationKerning></w:PunctuationKerning><w:View>Web</w:View><w:Compatibility><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState=3D"false"  DefUnhideWhenUsed=3D"true"  DefSemiHidden=3D"true"  DefQFormat=3D"false"  DefPriority=3D"99"  LatentStyleCount=3D"260" >
+=20<w:LsdException Locked=3D"false"  Priority=3D"0"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  QFormat=3D"true"  Name=3D"Normal" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  QFormat=3D"true"  Name=3D"heading 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 7" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 8" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"9"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"heading 9" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 7" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 8" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index 9" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 7" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 8" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  Name=3D"toc 9" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Normal Indent" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"footnote text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"annotation text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"header" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"footer" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"index heading" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"35"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"caption" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"table of figures" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"envelope address" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"envelope return" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"footnote reference" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"annotation reference" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"line number" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"page number" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"endnote reference" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"endnote text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"table of authorities" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"macro" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"toa heading" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Bullet" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Number" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Bullet 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Bullet 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Bullet 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Bullet 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Number 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Number 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Number 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Number 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"10"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  QFormat=3D"true"  Name=3D"Title" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Closing" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Signature" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"1"  SemiHidden=3D"false"  Name=3D"Default Paragraph Font" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text Indent" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Continue" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Continue 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Continue 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Continue 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"List Continue 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Message Header" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"11"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  QFormat=3D"true"  Name=3D"Subtitle" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Salutation" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Date" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text First Indent" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text First Indent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Note Heading" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text Indent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Body Text Indent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Block Text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Hyperlink" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"FollowedHyperlink" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"22"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  QFormat=3D"true"  Name=3D"Strong" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"20"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  QFormat=3D"true"  Name=3D"Emphasis" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Document Map" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Plain Text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"E-mail Signature" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Normal (Web)" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Acronym" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Address" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Cite" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Code" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Definition" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Keyboard" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Preformatted" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Sample" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Typewriter" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"HTML Variable" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  QFormat=3D"true"  Name=3D"Normal Table" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"annotation subject" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"No List" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"1 / a / i" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"1 / 1.1 / 1.1.1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Article / Section" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Simple 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Simple 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Simple 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Classic 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Classic 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Classic 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Classic 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Colorful 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Colorful 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Colorful 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Columns 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Columns 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Columns 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Columns 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Columns 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 7" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Grid 8" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 7" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table List 8" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table 3D effects 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table 3D effects 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table 3D effects 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Contemporary" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Elegant" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Professional" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Subtle 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Subtle 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Web 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Web 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Web 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Balloon Text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"39"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Table Grid" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Table Theme" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Placeholder Text" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"No Spacing" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"60"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Shading" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"61"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light List" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"62"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Grid" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"63"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"64"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"65"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"66"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"67"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"68"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"69"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"70"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Dark List" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"71"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Shading" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"72"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful List" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"73"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Grid" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"60"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Shading Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"61"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light List Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"62"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Grid Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"63"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 1 Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"64"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 2 Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"65"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 1 Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"34"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  QFormat=3D"true"  Name=3D"List Paragraph" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Quote" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"99"  SemiHidden=3D"false"  Name=3D"Intense Quote" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"66"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 2 Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"67"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 1 Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"68"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 2 Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"69"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 3 Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"70"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Dark List Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"71"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Shading Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"72"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful List Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"73"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Grid Accent 1" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"60"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Shading Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"61"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light List Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"62"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Grid Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"63"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 1 Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"64"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 2 Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"65"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 1 Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"66"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 2 Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"67"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 1 Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"68"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 2 Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"69"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 3 Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"70"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Dark List Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"71"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Shading Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"72"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful List Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"73"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Grid Accent 2" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"60"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Shading Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"61"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light List Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"62"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Grid Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"63"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 1 Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"64"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 2 Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"65"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 1 Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"66"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 2 Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"67"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 1 Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"68"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 2 Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"69"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 3 Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"70"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Dark List Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"71"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Shading Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"72"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful List Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"73"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Grid Accent 3" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"60"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Shading Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"61"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light List Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"62"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Grid Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"63"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 1 Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"64"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 2 Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"65"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 1 Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"66"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 2 Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"67"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 1 Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"68"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 2 Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"69"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 3 Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"70"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Dark List Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"71"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Shading Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"72"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful List Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"73"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Grid Accent 4" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"60"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Shading Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"61"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light List Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"62"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Grid Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"63"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 1 Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"64"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 2 Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"65"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 1 Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"66"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 2 Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"67"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 1 Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"68"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 2 Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"69"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 3 Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"70"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Dark List Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"71"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Shading Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"72"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful List Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"73"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Grid Accent 5" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"60"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Shading Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"61"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light List Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"62"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Light Grid Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"63"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 1 Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"64"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Shading 2 Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"65"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 1 Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"66"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium List 2 Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"67"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 1 Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"68"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 2 Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"69"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Medium Grid 3 Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"70"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Dark List Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"71"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Shading Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"72"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful List Accent 6" ></w:LsdException>
+=20<w:LsdException Locked=3D"false"  Priority=3D"73"  SemiHidden=3D"false"  UnhideWhenUsed=3D"false"  Name=3D"Colorful Grid Accent 6" ></w:LsdException>
+=20</w:LatentStyles></xml><![endif]--><style>
+=20@font-face{
+=20font-family:"Times New Roman";
+=20}
+=20
+=20@font-face{
+=20font-family:"宋体";
+=20}
+=20
+=20@font-face{
+=20font-family:"Calibri";
+=20}
+=20
+=20@font-face{
+=20font-family:"Wingdings";
+=20}
+=20
+=20@font-face{
+=20font-family:"黑体";
+=20}
+=20
+=20@font-face{
+=20font-family:"微软雅黑";
+=20}
+=20
+=20p.MsoNormal{
+=20mso-style-name:正文;
+=20mso-style-parent:"";
+=20margin:0pt;
+=20margin-bottom:.0001pt;
+=20mso-pagination:none;
+=20text-align:justify;
+=20text-justify:inter-ideograph;
+=20font-family:Calibri;
+=20mso-fareast-font-family:宋体;
+=20mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;
+=20mso-font-kerning:1.0000pt;
+=20}
+=20
+=20span.10{
+=20font-family:Calibri;
+=20}
+=20
+=20span.15{
+=20font-family:Calibri;
+=20font-size:9.0000pt;
+=20}
+=20
+=20span.16{
+=20font-family:Calibri;
+=20font-size:9.0000pt;
+=20}
+=20
+=20p.MsoHeader{
+=20mso-style-name:页眉;
+=20mso-style-noshow:yes;
+=20margin:0pt;
+=20margin-bottom:.0001pt;
+=20border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.7500pt solid windowtext;
+=20padding:0pt 0pt 1pt 0pt ;
+=20layout-grid-mode:char;
+=20mso-pagination:none;
+=20text-align:center;
+=20font-family:Calibri;
+=20mso-fareast-font-family:宋体;
+=20mso-bidi-font-family:'Times New Roman';
+=20font-size:9.0000pt;
+=20mso-font-kerning:1.0000pt;
+=20}
+=20
+=20p.MsoFooter{
+=20mso-style-name:页脚;
+=20mso-style-noshow:yes;
+=20margin:0pt;
+=20margin-bottom:.0001pt;
+=20layout-grid-mode:char;
+=20mso-pagination:none;
+=20text-align:left;
+=20font-family:Calibri;
+=20mso-fareast-font-family:宋体;
+=20mso-bidi-font-family:'Times New Roman';
+=20font-size:9.0000pt;
+=20mso-font-kerning:1.0000pt;
+=20}
+=20
+=20p.19{
+=20mso-style-name:"List Paragraph";
+=20margin:0pt;
+=20margin-bottom:.0001pt;
+=20text-indent:21.0000pt;
+=20mso-char-indent-count:2.0000;
+=20mso-pagination:none;
+=20text-align:justify;
+=20text-justify:inter-ideograph;
+=20font-family:Calibri;
+=20mso-fareast-font-family:宋体;
+=20mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;
+=20mso-font-kerning:1.0000pt;
+=20}
+=20
+=20span.msoIns{
+=20mso-style-type:export-only;
+=20mso-style-name:"";
+=20text-decoration:underline;
+=20text-underline:single;
+=20color:blue;
+=20}
+=20
+=20span.msoDel{
+=20mso-style-type:export-only;
+=20mso-style-name:"";
+=20text-decoration:line-through;
+=20color:red;
+=20}
+=20
+=20table.MsoNormalTable{
+=20mso-style-name:普通表格;
+=20mso-style-parent:"";
+=20mso-style-noshow:yes;
+=20mso-tstyle-rowband-size:0;
+=20mso-tstyle-colband-size:0;
+=20mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+=20mso-para-margin:0pt;
+=20mso-para-margin-bottom:.0001pt;
+=20mso-pagination:widow-orphan;
+=20font-family:'Times New Roman';
+=20font-size:10.0000pt;
+=20mso-ansi-language:#0400;
+=20mso-fareast-language:#0400;
+=20mso-bidi-language:#0400;
+=20}
+=20
+=20table.MsoTableGrid{
+=20mso-style-name:网格型;
+=20mso-tstyle-rowband-size:0;
+=20mso-tstyle-colband-size:0;
+=20mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+=20mso-border-top-alt:0.5000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;
+=20mso-border-right-alt:0.5000pt solid windowtext;
+=20mso-border-insideh:0.5000pt solid windowtext;
+=20mso-border-insidev:0.5000pt solid windowtext;
+=20mso-para-margin:0pt;
+=20mso-para-margin-bottom:.0001pt;
+=20mso-pagination:widow-orphan;
+=20font-family:'Times New Roman';
+=20mso-fareast-font-family:宋体;
+=20font-size:10.0000pt;
+=20mso-ansi-language:#0400;
+=20mso-fareast-language:#0400;
+=20mso-bidi-language:#0400;
+=20}
+=20@page{mso-page-border-surround-header:no;
+=20	mso-page-border-surround-footer:no;}@page Section0{
+=20margin-top:70.9000pt;
+=20margin-bottom:70.9000pt;
+=20margin-left:89.8500pt;
+=20margin-right:89.8500pt;
+=20size:595.3000pt 841.9000pt;
+=20layout-grid:15.6000pt;
+=20}
+=20div.Section0{page:Section0;}</style></head><body style=3D"tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class=3D"Section0"  style=3D"layout-grid:15.6000pt;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-bottom:7.8000pt;mso-para-margin-bottom:0.5000gd;text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-size:16.0000pt;mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >典型石油钻采</font></span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-size:16.0000pt;mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >设备电气节能</font></span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-size:16.0000pt;mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >虚拟仿真实验实验报告</font></span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-size:16.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><table class=3DMsoTableGrid  border=3D0  cellspacing=3D0  style=3D"border-collapse:collapse;width:414.7500pt;mso-table-layout-alt:fixed;
+=20border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style=3D"height:22.7000pt;" ><td width=3D71  valign=3Dcenter  style=3D"width:42.6500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20border-right:none;border-top:none;border-bottom:none;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" >学院：</span><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D212  valign=3Dcenter  style=3D"width:127.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D70  valign=3Dcenter  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20border-right:none;border-top:none;border-bottom:none;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" >专业：</span><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D212  valign=3Dcenter  style=3D"width:127.3000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D22  valign=3Dtop  style=3D"width:13.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.5000pt solid windowtext;mso-border-right-alt:1.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:none;
+=20mso-border-bottom-alt:none;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D103  valign=3Dcenter  style=3D"width:61.8500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.5000pt solid windowtext;mso-border-right-alt:1.5000pt solid windowtext;
+=20border-top:1.5000pt solid windowtext;mso-border-top-alt:1.5000pt solid windowtext;border-bottom:none;
+=20mso-border-bottom-alt:none;" ><p class=3DMsoNormal ><b><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >实验成绩</span></b><b><span style=3D"font-family:黑体;mso-bidi-font-family:'Times New Roman';font-weight:bold;
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D71  valign=3Dcenter  style=3D"width:42.6500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20border-right:none;border-top:none;border-bottom:none;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" >年级：</span><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D212  valign=3Dcenter  style=3D"width:127.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D70  valign=3Dcenter  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20border-right:none;border-top:none;border-bottom:none;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" >班级：</span><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D212  valign=3Dcenter  style=3D"width:127.3000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D22  valign=3Dtop  style=3D"width:13.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.5000pt solid windowtext;mso-border-right-alt:1.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:none;
+=20mso-border-bottom-alt:none;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D103  valign=3Dcenter  rowspan=3D2  style=3D"width:61.8500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.5000pt solid windowtext;mso-border-right-alt:1.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.5000pt solid windowtext;
+=20mso-border-bottom-alt:1.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><b><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;
+=20font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >$B[0]$</span></b><b><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-weight:bold;
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D71  valign=3Dcenter  style=3D"width:42.6500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20border-right:none;border-top:none;border-bottom:none;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" >姓名：</span><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D212  valign=3Dcenter  style=3D"width:127.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D70  valign=3Dcenter  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20border-right:none;border-top:none;border-bottom:none;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:0.0000pt;" >学号：</span><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D212  valign=3Dcenter  style=3D"width:127.3000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=3D22  valign=3Dtop  style=3D"width:13.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.5000pt solid windowtext;mso-border-right-alt:1.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:none;
+=20mso-border-bottom-alt:none;" ><p class=3DMsoNormal ><span style=3D"font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=3DMsoNormal  style=3D"margin-top:15.6000pt;margin-bottom:3.1000pt;mso-para-margin-top:1.0000gd;
+=20mso-para-margin-bottom:0.2000gd;" ><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >一、抽油机实验（满分</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >100</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >分，权重</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >40%</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >）</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><table class=3DMsoTableGrid  border=3D1  cellspacing=3D0  style=3D"border-collapse:collapse;width:417.9500pt;mso-table-layout-alt:fixed;
+=20border:none;mso-border-left-alt:0.5000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;
+=20mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;mso-border-insideh:0.5000pt solid windowtext;
+=20mso-border-insidev:0.5000pt solid windowtext;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >1. <font face=3D"宋体" >安全防护与操作</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D70  valign=3Dcenter  rowspan=3D2  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[1]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:56.2000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >穿戴好安全帽、绝缘靴、绝缘手套，井场操控前电气控制柜必须先断电。</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >2. <font face=3D"宋体" >&#8220;大马拉小车&#8221;问题</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D70  valign=3Dcenter  rowspan=3D2  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[2]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"500"  height=3D"252"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852185.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >3. <font face=3D"宋体" >双功率电机的电气控制</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D70  valign=3Dcenter  rowspan=3D2  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[3]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"433"  height=3D"364"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852228.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >4. <font face=3D"宋体" >不同类型电机的节能问题</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D70  valign=3Dcenter  rowspan=3D2  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[4]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"609"  height=3D"303"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852272.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >5. <font face=3D"宋体" >群控问题</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D70  valign=3Dcenter  rowspan=3D2  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[5]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"396"  height=3D"214"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852309.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >总分</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D70  valign=3Dcenter  style=3D"width:42.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[6]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=3DMsoNormal  style=3D"margin-top:15.6000pt;margin-bottom:3.1000pt;mso-para-margin-top:1.0000gd;
+=20mso-para-margin-bottom:0.2000gd;" ><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >二、注水泵实验（满分</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >100</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >分，权重</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >30%</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >）</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><table class=3DMsoTableGrid  border=3D1  cellspacing=3D0  style=3D"border-collapse:collapse;width:414.7500pt;mso-table-layout-alt:fixed;
+=20border:none;mso-border-left-alt:0.5000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;
+=20mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;mso-border-insideh:0.5000pt solid windowtext;
+=20mso-border-insidev:0.5000pt solid windowtext;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >1<font face=3D"宋体" >、注水泵的工作点</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[7]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"326"  height=3D"326"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852381.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >2. <font face=3D"宋体" >注水泵、电机和变频器的选择</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[8]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"579"  height=3D"183"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852427.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >3. <font face=3D"宋体" >节能效果</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[9]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;line-height:150%;" ><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.0000pt;
+=20mso-font-kerning:0.0000pt;" ><img width=3D"608"  height=3D"141"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852448.png" ></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >4. <font face=3D"宋体" >节能方案对比分析</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[10]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"414"  height=3D"193"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852489.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >总分</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[11]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=3DMsoNormal  style=3D"margin-top:15.6000pt;margin-bottom:3.1000pt;mso-para-margin-top:1.0000gd;
+=20mso-para-margin-bottom:0.2000gd;" ><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >三、海上钻井平台实验（满分</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >100</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >分，权重</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >20%</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >）</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><table class=3DMsoTableGrid  border=3D1  cellspacing=3D0  style=3D"border-collapse:collapse;width:414.7500pt;mso-table-layout-alt:fixed;
+=20border:none;mso-border-left-alt:0.5000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;
+=20mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;mso-border-insideh:0.5000pt solid windowtext;
+=20mso-border-insidev:0.5000pt solid windowtext;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >1. <font face=3D"宋体" >无功补偿原理</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[12]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"589"  height=3D"224"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852566.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >2. <font face=3D"宋体" >无功补偿方案确定</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[13]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"610"  height=3D"229"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852608.png" ></span><o:p></o:p></p><p class=3DMsoNormal  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:10.0000pt;
+=20mso-font-kerning:0.0000pt;" >确定选择 分组补偿</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >3. <font face=3D"宋体" >无功补偿前后的电压波形</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[14]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;" ><span style=3D"font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+=20font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><img width=3D"607"  height=3D"180"  src=3D"~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852663.png" ></span><o:p></o:p></p></td></tr><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >总分</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[15]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=3DMsoNormal  style=3D"margin-top:15.6000pt;margin-bottom:3.1000pt;mso-para-margin-top:1.0000gd;
+=20mso-para-margin-bottom:0.2000gd;" ><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >四、实验自测（满分</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >100</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >分，权重</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" >10%</span><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >）</font></span><span style=3D"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:黑体;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><table class=3DMsoTableGrid  border=3D1  cellspacing=3D0  style=3D"border-collapse:collapse;width:414.7500pt;mso-table-layout-alt:fixed;
+=20border:none;mso-border-left-alt:0.5000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;
+=20mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;mso-border-insideh:0.5000pt solid windowtext;
+=20mso-border-insidev:0.5000pt solid windowtext;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style=3D"height:22.7000pt;" ><td width=3D625  valign=3Dcenter  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >10<font face=3D"宋体" >套选择题</font></span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=3D65  valign=3Dcenter  rowspan=3D2  style=3D"width:39.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+=20mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  align=3Dcenter  style=3D"text-align:center;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$B[16]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style=3D"height:68.0500pt;" ><td width=3D625  valign=3Dtop  style=3D"width:375.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+=20mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+=20border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+=20mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=3DMsoNormal  style=3D"margin-top:3.1000pt;mso-para-margin-top:0.2000gd;" ><span style=3D"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+=20mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" >$A[0]$</span><span style=3D"font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:12.0000pt;
+=20mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=3DMsoNormal  style=3D"margin-top:15.6000pt;margin-right:24.0000pt;margin-bottom:3.1000pt;
+=20mso-para-margin-top:1.0000gd;mso-para-margin-bottom:0.2000gd;text-indent:282.0000pt;
+=20mso-char-indent-count:23.5000;" ><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >评阅教师：</font></span><u><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20text-decoration:underline;text-underline:single;font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" >&nbsp;</span></u><u><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20text-decoration:underline;text-underline:single;font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></u><u><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20text-decoration:underline;text-underline:single;font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" ><o:p></o:p></span></u></p><p class=3DMsoNormal  align=3Dright  style=3D"margin-top:7.8000pt;margin-bottom:3.1000pt;mso-para-margin-top:0.5000gd;
+=20mso-para-margin-bottom:0.2000gd;word-break:break-all;text-align:right;" ><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><font face=3D"黑体" >评阅日期：</font></span><u><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20text-decoration:underline;text-underline:single;font-size:12.0000pt;
+=20mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></u><span style=3D"mso-spacerun:'yes';font-family:黑体;mso-bidi-font-family:'Times New Roman';
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=3DMsoNormal  style=3D"line-height:150%;" ><b><span style=3D"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+=20mso-bidi-font-family:'Times New Roman';line-height:150%;font-weight:bold;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></b></p><p class=3DMsoNormal  style=3D"line-height:150%;" ><b><span style=3D"mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+=20mso-bidi-font-family:'Times New Roman';line-height:150%;font-weight:bold;
+=20font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></b></p></div><!--EndFragment--></body></html>
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852185.png
+
+$图片1$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852228.png
+
+$图片2$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852272.png
+
+$图片3$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852309.png
+
+$图片4$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852381.png
+
+$图片5$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852427.png
+
+$图片6$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852448.png
+
+$图片7$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852489.png
+
+$图片8$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852566.png
+
+$图片9$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852608.png
+
+$图片10$
+
+------=_NextPart_000_0076_01C29953.BE473C30
+Content-Type: application/octet-stream;
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/83653/AppData/Local/Temp/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852.files/~tmp{3f004174-2f1e-4219-aa3f-4f1b12e9fa94}3420852663.png
+
+$图片11$
+
+------=_NextPart_000_0076_01C29953.BE473C30--
