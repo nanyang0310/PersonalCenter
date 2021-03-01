@@ -1,0 +1,7 @@
+What package to use:
+
+UIWidgets-1.9.2-TMPro-1.0.54-cs.unitypackage
+ Package to use with Text Mesh Pro 1.0.54, deprecated C# version
+
+UIWidgets-1.9.2-TMPro-1.0.55-dll.unitypackage
+ Package to use with Text Mesh Pro 1.0.55 or later, dll version currently available at AssetStore
