@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 7c69f6ca055bf744e82d8cd44033db99
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: stitch_result_stitch all
+    100004: stitch_result_stitch all 1
+    100006: stitch_result_stitch all1
+    100008: stitch_result_stitch all10
+    100010: stitch_result_stitch all11
+    100012: stitch_result_stitch all12
+    100014: stitch_result_stitch all13
+    100016: stitch_result_stitch all14
+    100018: stitch_result_stitch all15
+    100020: stitch_result_stitch all16
+    100022: stitch_result_stitch all17
+    100024: stitch_result_stitch all18
+    100026: stitch_result_stitch all19
+    100028: stitch_result_stitch all2
+    100030: stitch_result_stitch all20
+    100032: stitch_result_stitch all21
+    100034: stitch_result_stitch all22
+    100036: stitch_result_stitch all23
+    100038: stitch_result_stitch all24
+    100040: stitch_result_stitch all25
+    100042: stitch_result_stitch all26
+    100044: stitch_result_stitch all27
+    100046: stitch_result_stitch all28
+    100048: stitch_result_stitch all29
+    100050: stitch_result_stitch all3
+    100052: stitch_result_stitch all30
+    100054: stitch_result_stitch all31
+    100056: stitch_result_stitch all32
+    100058: stitch_result_stitch all33
+    100060: stitch_result_stitch all34
+    100062: stitch_result_stitch all35
+    100064: stitch_result_stitch all36
+    100066: stitch_result_stitch all37
+    100068: stitch_result_stitch all38
+    100070: stitch_result_stitch all39
+    100072: stitch_result_stitch all4
+    100074: stitch_result_stitch all40
+    100076: stitch_result_stitch all41
+    100078: stitch_result_stitch all42
+    100080: stitch_result_stitch all43
+    100082: stitch_result_stitch all44
+    100084: stitch_result_stitch all45
+    100086: stitch_result_stitch all46
+    100088: stitch_result_stitch all47
+    100090: stitch_result_stitch all48
+    100092: stitch_result_stitch all49
+    100094: stitch_result_stitch all5
+    100096: stitch_result_stitch all50
+    100098: stitch_result_stitch all51
+    100100: stitch_result_stitch all52
+    100102: stitch_result_stitch all53
+    100104: stitch_result_stitch all54
+    100106: stitch_result_stitch all55
+    100108: stitch_result_stitch all56
+    100110: stitch_result_stitch all57
+    100112: stitch_result_stitch all58
+    100114: stitch_result_stitch all59
+    100116: stitch_result_stitch all6
+    100118: stitch_result_stitch all60
+    100120: stitch_result_stitch all61
+    100122: stitch_result_stitch all62
+    100124: stitch_result_stitch all63
+    100126: stitch_result_stitch all64
+    100128: stitch_result_stitch all65
+    100130: stitch_result_stitch all66
+    100132: stitch_result_stitch all67
+    100134: stitch_result_stitch all7
+    100136: stitch_result_stitch all8
+    100138: stitch_result_stitch all9
+    100140: CheShen
+    100142: S
+    100144: S 1
+    100146: S 2
+    100148: S 3
+    100150: X
+    100152: X 1
+    100154: X 2
+    100156: X 3
+    100158: YT_01
+    100160: YT_02
+    100162: Yuan
+    100164: Yuan 1
+    100166: Yuan 2
+    100168: Yuan 3
+    100170: ZT_01
+    100172: ZT_02
+    100174: JQR
+    400000: //RootNode
+    400002: stitch_result_stitch all
+    400004: stitch_result_stitch all 1
+    400006: stitch_result_stitch all1
+    400008: stitch_result_stitch all10
+    400010: stitch_result_stitch all11
+    400012: stitch_result_stitch all12
+    400014: stitch_result_stitch all13
+    400016: stitch_result_stitch all14
+    400018: stitch_result_stitch all15
+    400020: stitch_result_stitch all16
+    400022: stitch_result_stitch all17
+    400024: stitch_result_stitch all18
+    400026: stitch_result_stitch all19
+    400028: stitch_result_stitch all2
+    400030: stitch_result_stitch all20
+    400032: stitch_result_stitch all21
+    400034: stitch_result_stitch all22
+    400036: stitch_result_stitch all23
+    400038: stitch_result_stitch all24
+    400040: stitch_result_stitch all25
+    400042: stitch_result_stitch all26
+    400044: stitch_result_stitch all27
+    400046: stitch_result_stitch all28
+    400048: stitch_result_stitch all29
+    400050: stitch_result_stitch all3
+    400052: stitch_result_stitch all30
+    400054: stitch_result_stitch all31
+    400056: stitch_result_stitch all32
+    400058: stitch_result_stitch all33
+    400060: stitch_result_stitch all34
+    400062: stitch_result_stitch all35
+    400064: stitch_result_stitch all36
+    400066: stitch_result_stitch all37
+    400068: stitch_result_stitch all38
+    400070: stitch_result_stitch all39
+    400072: stitch_result_stitch all4
+    400074: stitch_result_stitch all40
+    400076: stitch_result_stitch all41
+    400078: stitch_result_stitch all42
+    400080: stitch_result_stitch all43
+    400082: stitch_result_stitch all44
+    400084: stitch_result_stitch all45
+    400086: stitch_result_stitch all46
+    400088: stitch_result_stitch all47
+    400090: stitch_result_stitch all48
+    400092: stitch_result_stitch all49
+    400094: stitch_result_stitch all5
+    400096: stitch_result_stitch all50
+    400098: stitch_result_stitch all51
+    400100: stitch_result_stitch all52
+    400102: stitch_result_stitch all53
+    400104: stitch_result_stitch all54
+    400106: stitch_result_stitch all55
+    400108: stitch_result_stitch all56
+    400110: stitch_result_stitch all57
+    400112: stitch_result_stitch all58
+    400114: stitch_result_stitch all59
+    400116: stitch_result_stitch all6
+    400118: stitch_result_stitch all60
+    400120: stitch_result_stitch all61
+    400122: stitch_result_stitch all62
+    400124: stitch_result_stitch all63
+    400126: stitch_result_stitch all64
+    400128: stitch_result_stitch all65
+    400130: stitch_result_stitch all66
+    400132: stitch_result_stitch all67
+    400134: stitch_result_stitch all7
+    400136: stitch_result_stitch all8
+    400138: stitch_result_stitch all9
+    400140: CheShen
+    400142: S
+    400144: S 1
+    400146: S 2
+    400148: S 3
+    400150: X
+    400152: X 1
+    400154: X 2
+    400156: X 3
+    400158: YT_01
+    400160: YT_02
+    400162: Yuan
+    400164: Yuan 1
+    400166: Yuan 2
+    400168: Yuan 3
+    400170: ZT_01
+    400172: ZT_02
+    400174: JQR
+    2100000: JiQiRen01_M
+    2300000: stitch_result_stitch all
+    2300002: stitch_result_stitch all 1
+    2300004: stitch_result_stitch all1
+    2300006: stitch_result_stitch all10
+    2300008: stitch_result_stitch all11
+    2300010: stitch_result_stitch all12
+    2300012: stitch_result_stitch all13
+    2300014: stitch_result_stitch all14
+    2300016: stitch_result_stitch all15
+    2300018: stitch_result_stitch all16
+    2300020: stitch_result_stitch all17
+    2300022: stitch_result_stitch all18
+    2300024: stitch_result_stitch all19
+    2300026: stitch_result_stitch all2
+    2300028: stitch_result_stitch all20
+    2300030: stitch_result_stitch all21
+    2300032: stitch_result_stitch all22
+    2300034: stitch_result_stitch all23
+    2300036: stitch_result_stitch all24
+    2300038: stitch_result_stitch all25
+    2300040: stitch_result_stitch all26
+    2300042: stitch_result_stitch all27
+    2300044: stitch_result_stitch all28
+    2300046: stitch_result_stitch all29
+    2300048: stitch_result_stitch all3
+    2300050: stitch_result_stitch all30
+    2300052: stitch_result_stitch all31
+    2300054: stitch_result_stitch all32
+    2300056: stitch_result_stitch all33
+    2300058: stitch_result_stitch all34
+    2300060: stitch_result_stitch all35
+    2300062: stitch_result_stitch all36
+    2300064: stitch_result_stitch all37
+    2300066: stitch_result_stitch all38
+    2300068: stitch_result_stitch all39
+    2300070: stitch_result_stitch all4
+    2300072: stitch_result_stitch all40
+    2300074: stitch_result_stitch all41
+    2300076: stitch_result_stitch all42
+    2300078: stitch_result_stitch all43
+    2300080: stitch_result_stitch all44
+    2300082: stitch_result_stitch all45
+    2300084: stitch_result_stitch all46
+    2300086: stitch_result_stitch all47
+    2300088: stitch_result_stitch all48
+    2300090: stitch_result_stitch all49
+    2300092: stitch_result_stitch all5
+    2300094: stitch_result_stitch all50
+    2300096: stitch_result_stitch all51
+    2300098: stitch_result_stitch all52
+    2300100: stitch_result_stitch all53
+    2300102: stitch_result_stitch all54
+    2300104: stitch_result_stitch all55
+    2300106: stitch_result_stitch all56
+    2300108: stitch_result_stitch all57
+    2300110: stitch_result_stitch all58
+    2300112: stitch_result_stitch all59
+    2300114: stitch_result_stitch all6
+    2300116: stitch_result_stitch all60
+    2300118: stitch_result_stitch all61
+    2300120: stitch_result_stitch all62
+    2300122: stitch_result_stitch all63
+    2300124: stitch_result_stitch all64
+    2300126: stitch_result_stitch all65
+    2300128: stitch_result_stitch all66
+    2300130: stitch_result_stitch all67
+    2300132: stitch_result_stitch all7
+    2300134: stitch_result_stitch all8
+    2300136: stitch_result_stitch all9
+    2300138: S
+    2300140: S 1
+    2300142: S 2
+    2300144: S 3
+    2300146: X
+    2300148: X 1
+    2300150: X 2
+    2300152: X 3
+    2300154: Yuan
+    2300156: Yuan 1
+    2300158: Yuan 2
+    2300160: Yuan 3
+    3300000: stitch_result_stitch all
+    3300002: stitch_result_stitch all 1
+    3300004: stitch_result_stitch all1
+    3300006: stitch_result_stitch all10
+    3300008: stitch_result_stitch all11
+    3300010: stitch_result_stitch all12
+    3300012: stitch_result_stitch all13
+    3300014: stitch_result_stitch all14
+    3300016: stitch_result_stitch all15
+    3300018: stitch_result_stitch all16
+    3300020: stitch_result_stitch all17
+    3300022: stitch_result_stitch all18
+    3300024: stitch_result_stitch all19
+    3300026: stitch_result_stitch all2
+    3300028: stitch_result_stitch all20
+    3300030: stitch_result_stitch all21
+    3300032: stitch_result_stitch all22
+    3300034: stitch_result_stitch all23
+    3300036: stitch_result_stitch all24
+    3300038: stitch_result_stitch all25
+    3300040: stitch_result_stitch all26
+    3300042: stitch_result_stitch all27
+    3300044: stitch_result_stitch all28
+    3300046: stitch_result_stitch all29
+    3300048: stitch_result_stitch all3
+    3300050: stitch_result_stitch all30
+    3300052: stitch_result_stitch all31
+    3300054: stitch_result_stitch all32
+    3300056: stitch_result_stitch all33
+    3300058: stitch_result_stitch all34
+    3300060: stitch_result_stitch all35
+    3300062: stitch_result_stitch all36
+    3300064: stitch_result_stitch all37
+    3300066: stitch_result_stitch all38
+    3300068: stitch_result_stitch all39
+    3300070: stitch_result_stitch all4
+    3300072: stitch_result_stitch all40
+    3300074: stitch_result_stitch all41
+    3300076: stitch_result_stitch all42
+    3300078: stitch_result_stitch all43
+    3300080: stitch_result_stitch all44
+    3300082: stitch_result_stitch all45
+    3300084: stitch_result_stitch all46
+    3300086: stitch_result_stitch all47
+    3300088: stitch_result_stitch all48
+    3300090: stitch_result_stitch all49
+    3300092: stitch_result_stitch all5
+    3300094: stitch_result_stitch all50
+    3300096: stitch_result_stitch all51
+    3300098: stitch_result_stitch all52
+    3300100: stitch_result_stitch all53
+    3300102: stitch_result_stitch all54
+    3300104: stitch_result_stitch all55
+    3300106: stitch_result_stitch all56
+    3300108: stitch_result_stitch all57
+    3300110: stitch_result_stitch all58
+    3300112: stitch_result_stitch all59
+    3300114: stitch_result_stitch all6
+    3300116: stitch_result_stitch all60
+    3300118: stitch_result_stitch all61
+    3300120: stitch_result_stitch all62
+    3300122: stitch_result_stitch all63
+    3300124: stitch_result_stitch all64
+    3300126: stitch_result_stitch all65
+    3300128: stitch_result_stitch all66
+    3300130: stitch_result_stitch all67
+    3300132: stitch_result_stitch all7
+    3300134: stitch_result_stitch all8
+    3300136: stitch_result_stitch all9
+    3300138: S
+    3300140: S 1
+    3300142: S 2
+    3300144: S 3
+    3300146: X
+    3300148: X 1
+    3300150: X 2
+    3300152: X 3
+    3300154: Yuan
+    3300156: Yuan 1
+    3300158: Yuan 2
+    3300160: Yuan 3
+    4300000: stitch_result_stitch all
+    4300002: stitch_result_stitch all1
+    4300004: stitch_result_stitch all2
+    4300006: stitch_result_stitch all3
+    4300008: stitch_result_stitch all4
+    4300010: stitch_result_stitch all5
+    4300012: stitch_result_stitch all6
+    4300014: stitch_result_stitch all7
+    4300016: stitch_result_stitch all8
+    4300018: stitch_result_stitch all9
+    4300020: stitch_result_stitch all10
+    4300022: stitch_result_stitch all11
+    4300024: stitch_result_stitch all12
+    4300026: stitch_result_stitch all13
+    4300028: stitch_result_stitch all14
+    4300030: stitch_result_stitch all15
+    4300032: stitch_result_stitch all16
+    4300034: stitch_result_stitch all17
+    4300036: stitch_result_stitch all18
+    4300038: stitch_result_stitch all19
+    4300040: stitch_result_stitch all20
+    4300042: stitch_result_stitch all21
+    4300044: stitch_result_stitch all22
+    4300046: stitch_result_stitch all23
+    4300048: stitch_result_stitch all24
+    4300050: stitch_result_stitch all25
+    4300052: stitch_result_stitch all26
+    4300054: stitch_result_stitch all27
+    4300056: stitch_result_stitch all28
+    4300058: stitch_result_stitch all29
+    4300060: stitch_result_stitch all30
+    4300062: stitch_result_stitch all31
+    4300064: stitch_result_stitch all32
+    4300066: stitch_result_stitch all33
+    4300068: stitch_result_stitch all34
+    4300070: stitch_result_stitch all35
+    4300072: stitch_result_stitch all36
+    4300074: stitch_result_stitch all37
+    4300076: stitch_result_stitch all38
+    4300078: stitch_result_stitch all39
+    4300080: stitch_result_stitch all40
+    4300082: stitch_result_stitch all41
+    4300084: stitch_result_stitch all42
+    4300086: stitch_result_stitch all43
+    4300088: stitch_result_stitch all44
+    4300090: stitch_result_stitch all45
+    4300092: stitch_result_stitch all46
+    4300094: stitch_result_stitch all47
+    4300096: stitch_result_stitch all48
+    4300098: stitch_result_stitch all49
+    4300100: stitch_result_stitch all50
+    4300102: stitch_result_stitch all51
+    4300104: stitch_result_stitch all52
+    4300106: stitch_result_stitch all53
+    4300108: stitch_result_stitch all54
+    4300110: stitch_result_stitch all55
+    4300112: stitch_result_stitch all56
+    4300114: stitch_result_stitch all57
+    4300116: stitch_result_stitch all58
+    4300118: stitch_result_stitch all59
+    4300120: stitch_result_stitch all
+    4300122: stitch_result_stitch all60
+    4300124: stitch_result_stitch all61
+    4300126: stitch_result_stitch all62
+    4300128: stitch_result_stitch all63
+    4300130: stitch_result_stitch all64
+    4300132: stitch_result_stitch all65
+    4300134: stitch_result_stitch all66
+    4300136: stitch_result_stitch all67
+    4300138: S
+    4300140: X
+    4300142: Yuan
+    4300144: S
+    4300146: X
+    4300148: Yuan
+    4300150: S
+    4300152: X
+    4300154: Yuan
+    4300156: S
+    4300158: X
+    4300160: Yuan
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JiQiRen01_M
+    second: {fileID: 2100000, guid: e1237f013a4dba14f8f7e8a348663ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 2dc1eae54e815544594562b7fd70fcc7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
