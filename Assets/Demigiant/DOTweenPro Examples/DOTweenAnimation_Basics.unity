@@ -58,9 +58,9 @@ LightmapSettings:
     m_Resolution: 1
     m_BakeResolution: 50
     m_AtlasSize: 1024
-    m_AO: 0
+    m_AO: 1
     m_AOMaxDistance: 1
-    m_CompAOExponent: 0
+    m_CompAOExponent: 1
     m_CompAOExponentDirect: 0
     m_Padding: 2
     m_LightmapParameters: {fileID: 0}
@@ -68,7 +68,7 @@ LightmapSettings:
     m_TextureCompression: 0
     m_FinalGather: 0
     m_FinalGatherFiltering: 1
-    m_FinalGatherRayCount: 1024
+    m_FinalGatherRayCount: 256
     m_ReflectionCompression: 2
     m_MixedBakeMode: 1
     m_BakeBackend: 0
@@ -203,11 +203,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 0
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -223,6 +227,15 @@ MonoBehaviour:
   onComplete:
     m_PersistentCalls:
       m_Calls: []
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
+    m_PersistentCalls:
+      m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 2
   easeType: 6
@@ -261,9 +274,13 @@ MonoBehaviour:
   isValid: 1
   target: {fileID: 118309271}
   animationType: 3
+  targetType: 0
+  forcedTargetType: 0
   autoPlay: 0
+  useTargetAsV3: 0
   endValueFloat: 0
   endValueV3: {x: 0, y: 180, z: 0}
+  endValueV2: {x: 0, y: 0}
   endValueColor: {r: 1, g: 1, b: 1, a: 1}
   endValueString: 
   endValueRect:
@@ -272,6 +289,7 @@ MonoBehaviour:
     y: 0
     width: 0
     height: 0
+  endValueTransform: {fileID: 0}
   optionalBool0: 0
   optionalFloat0: 0
   optionalInt0: 0
@@ -290,11 +308,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 0
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -310,6 +332,15 @@ MonoBehaviour:
   onComplete:
     m_PersistentCalls:
       m_Calls: []
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
+    m_PersistentCalls:
+      m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 2
   easeType: 6
@@ -348,9 +379,13 @@ MonoBehaviour:
   isValid: 1
   target: {fileID: 118309271}
   animationType: 1
+  targetType: 0
+  forcedTargetType: 0
   autoPlay: 0
+  useTargetAsV3: 0
   endValueFloat: 0
   endValueV3: {x: 0, y: 4, z: 0}
+  endValueV2: {x: 0, y: 0}
   endValueColor: {r: 1, g: 1, b: 1, a: 1}
   endValueString: 
   endValueRect:
@@ -359,6 +394,7 @@ MonoBehaviour:
     y: 0
     width: 0
     height: 0
+  endValueTransform: {fileID: 0}
   optionalBool0: 0
   optionalFloat0: 0
   optionalInt0: 0
@@ -635,11 +671,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 0
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -655,6 +695,15 @@ MonoBehaviour:
   onComplete:
     m_PersistentCalls:
       m_Calls: []
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
+    m_PersistentCalls:
+      m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 3
   easeType: 1
@@ -693,9 +742,13 @@ MonoBehaviour:
   isValid: 1
   target: {fileID: 990238544}
   animationType: 8
+  targetType: 0
+  forcedTargetType: 0
   autoPlay: 0
+  useTargetAsV3: 0
   endValueFloat: 0
   endValueV3: {x: 0, y: 0, z: 0}
+  endValueV2: {x: 0, y: 0}
   endValueColor: {r: 1, g: 1, b: 1, a: 1}
   endValueString: This is <color=#FF2A42>the new tweened</color> <color=#E526C0>text</color>
     (<i>scandalous</i>)!
@@ -705,6 +758,7 @@ MonoBehaviour:
     y: 0
     width: 0
     height: 0
+  endValueTransform: {fileID: 0}
   optionalBool0: 1
   optionalFloat0: 0
   optionalInt0: 0
@@ -1093,11 +1147,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 0
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -1113,6 +1171,15 @@ MonoBehaviour:
   onComplete:
     m_PersistentCalls:
       m_Calls: []
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
+    m_PersistentCalls:
+      m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 3
   easeType: 1
@@ -1151,9 +1218,13 @@ MonoBehaviour:
   isValid: 1
   target: {fileID: 1323952361}
   animationType: 6
+  targetType: 0
+  forcedTargetType: 0
   autoPlay: 0
+  useTargetAsV3: 0
   endValueFloat: 0
   endValueV3: {x: 0, y: 0, z: 0}
+  endValueV2: {x: 0, y: 0}
   endValueColor: {r: 1, g: 0, b: 0.8068962, a: 1}
   endValueString: 
   endValueRect:
@@ -1162,6 +1233,7 @@ MonoBehaviour:
     y: 0
     width: 0
     height: 0
+  endValueTransform: {fileID: 0}
   optionalBool0: 0
   optionalFloat0: 0
   optionalInt0: 0
@@ -1180,11 +1252,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 0
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -1200,6 +1276,15 @@ MonoBehaviour:
   onComplete:
     m_PersistentCalls:
       m_Calls: []
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
+    m_PersistentCalls:
+      m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 3
   easeType: 1
@@ -1238,9 +1323,13 @@ MonoBehaviour:
   isValid: 1
   target: {fileID: 1323952361}
   animationType: 8
+  targetType: 0
+  forcedTargetType: 0
   autoPlay: 0
+  useTargetAsV3: 0
   endValueFloat: 0
   endValueV3: {x: 0, y: 0, z: 0}
+  endValueV2: {x: 0, y: 0}
   endValueColor: {r: 1, g: 1, b: 1, a: 1}
   endValueString: ' See? What did I tell you?'
   endValueRect:
@@ -1249,6 +1338,7 @@ MonoBehaviour:
     y: 0
     width: 0
     height: 0
+  endValueTransform: {fileID: 0}
   optionalBool0: 1
   optionalFloat0: 0
   optionalInt0: 0
@@ -1451,11 +1541,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 1
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -1504,6 +1598,15 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
+    m_PersistentCalls:
+      m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 1
   easeType: 5
@@ -1542,9 +1645,13 @@ MonoBehaviour:
   isValid: 1
   target: {fileID: 1636198020}
   animationType: 7
+  targetType: 0
+  forcedTargetType: 0
   autoPlay: 0
+  useTargetAsV3: 0
   endValueFloat: 0
   endValueV3: {x: 0, y: 0, z: 0}
+  endValueV2: {x: 0, y: 0}
   endValueColor: {r: 1, g: 1, b: 1, a: 1}
   endValueString: 
   endValueRect:
@@ -1553,6 +1660,7 @@ MonoBehaviour:
     y: 0
     width: 0
     height: 0
+  endValueTransform: {fileID: 0}
   optionalBool0: 0
   optionalFloat0: 0
   optionalInt0: 0

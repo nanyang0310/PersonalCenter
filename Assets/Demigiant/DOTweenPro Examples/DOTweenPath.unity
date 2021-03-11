@@ -180,11 +180,15 @@ MonoBehaviour:
   m_Script: {fileID: -333801856, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 1
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -211,6 +215,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
+    m_PersistentCalls:
+      m_Calls: []
   delay: 0
   duration: 3
   easeType: 6
@@ -239,6 +249,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   loops: 1
+  id: 
   loopType: 0
   orientType: 0
   lookAtTransform: {fileID: 0}
@@ -255,6 +266,7 @@ MonoBehaviour:
   assignForwardAndUp: 0
   forwardDirection: {x: 0, y: 0, z: 1}
   upDirection: {x: 0, y: 1, z: 0}
+  tweenRigidbody: 0
   wps:
   - {x: 3.8321667, y: 6.9544535, z: 0}
   - {x: -6.0542445, y: 9.465288, z: 0}
@@ -263,6 +275,14 @@ MonoBehaviour:
   - {x: -6.368099, y: -4.187376, z: 0}
   fullWps: []
   path:
+    wpLengths:
+    - 0
+    - 9.359136
+    - 10.405018
+    - 7.102792
+    - 6.6672983
+    - 7.1915474
+    - 11.289525
     type: 1
     subdivisionsXSegment: 10
     subdivisions: 70
@@ -280,14 +300,6 @@ MonoBehaviour:
     - a: {x: 3.8321667, y: 6.9544535, z: 0}
       b: {x: 0, y: 0, z: 0}
     length: 52.02238
-    wpLengths:
-    - 0
-    - 9.359136
-    - 10.405018
-    - 7.102792
-    - 6.6672983
-    - 7.1915474
-    - 11.289525
     isFinalized: 1
     timesTable:
     - 0.014285714
@@ -431,15 +443,18 @@ MonoBehaviour:
     - 50.50447
     - 51.32128
     - 52.02238
+  inspectorMode: 0
   pathType: 1
   handlesType: 0
   livePreview: 1
   handlesDrawMode: 0
   perspectiveHandleSize: 0.5
   showIndexes: 1
+  showWpLength: 0
   pathColor: {r: 1, g: 1, b: 1, a: 0.5}
   lastSrcPosition: {x: 4.45, y: -1.83, z: 0}
   wpsDropdown: 0
+  dropToFloorOffset: 0
 --- !u!33 &118309270
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -750,11 +765,15 @@ MonoBehaviour:
   m_Script: {fileID: -333801856, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateType: 0
+  isSpeedBased: 0
   hasOnStart: 0
   hasOnPlay: 0
   hasOnUpdate: 0
   hasOnStepComplete: 0
   hasOnComplete: 0
+  hasOnTweenCreated: 0
+  hasOnRewind: 0
   onStart:
     m_PersistentCalls:
       m_Calls: []
@@ -768,6 +787,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   onComplete:
+    m_PersistentCalls:
+      m_Calls: []
+  onTweenCreated:
+    m_PersistentCalls:
+      m_Calls: []
+  onRewind:
     m_PersistentCalls:
       m_Calls: []
   delay: 0
@@ -798,6 +823,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   loops: -1
+  id: 
   loopType: 0
   orientType: 0
   lookAtTransform: {fileID: 0}
@@ -814,6 +840,7 @@ MonoBehaviour:
   assignForwardAndUp: 0
   forwardDirection: {x: 0, y: 0, z: 1}
   upDirection: {x: 0, y: 1, z: 0}
+  tweenRigidbody: 0
   wps:
   - {x: 13.417454, y: 2.978077, z: 0}
   - {x: 9.493597, y: 8.510473, z: 0}
@@ -825,6 +852,17 @@ MonoBehaviour:
   - {x: 3.7979867, y: -4.5040193, z: 0}
   fullWps: []
   path:
+    wpLengths:
+    - 0
+    - 5.8644567
+    - 7.2802324
+    - 13.301847
+    - 11.81175
+    - 10.301735
+    - 9.680841
+    - 11.593836
+    - 8.754475
+    - 7.309784
     type: 1
     subdivisionsXSegment: 10
     subdivisions: 100
@@ -845,17 +883,6 @@ MonoBehaviour:
     - a: {x: 13.417454, y: 2.978077, z: 0}
       b: {x: 0, y: 0, z: 0}
     length: 85.91056
-    wpLengths:
-    - 0
-    - 5.8644567
-    - 7.2802324
-    - 13.301847
-    - 11.81175
-    - 10.301735
-    - 9.680841
-    - 11.593836
-    - 8.754475
-    - 7.309784
     isFinalized: 1
     timesTable:
     - 0.01
@@ -1059,15 +1086,18 @@ MonoBehaviour:
     - 84.728836
     - 85.33948
     - 85.91056
+  inspectorMode: 0
   pathType: 1
   handlesType: 0
   livePreview: 1
   handlesDrawMode: 0
   perspectiveHandleSize: 0.5
   showIndexes: 1
+  showWpLength: 0
   pathColor: {r: 1, g: 1, b: 1, a: 0.5}
   lastSrcPosition: {x: 10.45, y: -1.83, z: 0}
   wpsDropdown: 0
+  dropToFloorOffset: 0
 --- !u!23 &1087750406
 MeshRenderer:
   m_ObjectHideFlags: 0

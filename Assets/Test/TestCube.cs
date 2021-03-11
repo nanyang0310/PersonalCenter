@@ -9,6 +9,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using NY;
+using DG.Tweening;
+using UnityEngine.UI;
 
 public partial class TestCube : MonoBehaviour
 {
